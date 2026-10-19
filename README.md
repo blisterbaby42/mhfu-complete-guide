@@ -55,17 +55,17 @@ GH drink buff:
 
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/36 - Текстурки (еще лучше)
  
-- https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей (написан в повершелле, вызывает статтеры)
+- https://www.nexusmods.com/monsterhunterfreedomunite/mods/38 - ХП оверлей (написан в повершелле (sic!), вызывает статтеры)
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/25 - Лок (почти) как в 3у / 4у 
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
 
-Athena ASS:
+_ Athena ASS (Программа для поиска оптимальных микс-сетов по заданным критериям):
 
 https://www.mediafire.com/file/6z6dgks3kjc4u5g/%5BPSP_MHF1%5DAthena%27s_%2A.S.S-viciousShadow%27s_MHF1_Edition_v96.zip
 
-Ветки оружия:
+_ Ветки оружия:
 
 https://mhfu.vallode.com/smithy/
 
