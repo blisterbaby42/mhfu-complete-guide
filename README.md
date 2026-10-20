@@ -77,6 +77,7 @@
 
 ## Гайды по игре, форумы с полезной инфой (сайты старые)
 [NeoSeeker](https://www.neoseeker.com/monster-hunter-freedom-unite/faqs/)
+
 [GameFaqs](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs)
 
 ## Моды:
