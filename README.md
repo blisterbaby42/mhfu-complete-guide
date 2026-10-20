@@ -43,7 +43,8 @@ GH drink buff:
 
 АЛСО:
 =
-- Моды:
+
+Моды:
 =
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
 
