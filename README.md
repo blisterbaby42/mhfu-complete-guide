@@ -85,8 +85,8 @@ www.ppsspp.org
 
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
 
-  // Установка:
-  Закинуть папки с серийниками в названии (ULJMXXXX, ULUSXXXX) по пути $USER/Documents/PPSSPP/PSP/TEXTURES/.
+  [!Установка]
+  Закинуть папки с серийниками в названии (`ULJMXXXX`, `ULUSXXXX`) по пути `$USER/Documents/PPSSPP/PSP/TEXTURES/`
   
   ! Если не работают !:
   - 1 В PPSSPP открыть SETTINGS > TOOLS > DEVELOPER TOOLS > TEXTURE REPLACEMENT
