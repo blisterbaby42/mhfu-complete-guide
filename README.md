@@ -6,7 +6,8 @@
 
 ...Что-то пошло не так?
 =
-Если .ISO не запускается, придется патчить самому:
+> [!IMPORTANT]
+> Если .ISO не запускается, придется патчить самому:
 
 [ОРИГ JAP ROM](https://www.google.com/search?q=monster+hunter+portable+2nd+G+jap+rom&sca_esv=30a5fb343c9df574&sxsrf=APpeQntAGOcjDSFwPYJkyNgpxTY6XRd7vQ%3A1783627239435&ei=5_1ParmWGpfCwPAPqPzUuQM&biw=910&bih=896&ved=0ahUKEwj5pZKgscaVAxUXIRAIHSg-NTcQ4dUDCBA&uact=5&oq=monster+hunter+portable+2nd+G+jap+rom&gs_lp=Egxnd3Mtd2l6LXNlcnAiJW1vbnN0ZXIgaHVudGVyIHBvcnRhYmxlIDJuZCBHIGphcCByb21IjxBQ7QFY2Q1wAXgBkAEAmAHzAaABhgWqAQUwLjMuMbgBA8gBAPgBAZgCAqACiALCAgoQABhHGNYEGLADwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgUQABjvBcICCBAAGIAEGKIEmAMAiAYBkAYCkgcFMS4wLjGgB8IFsgcDMi0xuAeAAsIHBTItMS4xyAcOgAgB&sclient=gws-wiz-serp)
 
@@ -16,7 +17,6 @@
 - Можно настроить конфиг в патчере, либо загрузить через тулзу в браузере и сохранить
   (`CONIG.BIN` должен лежать в `$USER/Documents/PPSSPP/PSP/SAVEDATA/FUCDAT/`)
   
-    > [!NOTE]
     > При первом запуске игры и создания персонажа в слоте сохранения ROM генерирует дефолтный файл конфигурации в нужном месте
   
 [В браузере](https://fucomplete.github.io/assets/config_editor.html)
