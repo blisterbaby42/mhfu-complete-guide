@@ -43,12 +43,14 @@ GH drink buff:
 
 АЛСО:
 =
+- Моды:
+=
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
 
   // Установка:
-  Закинуть папки с серийниками в названии (UJMXXXX, ULUSXXXX) по пути $USER/Documents/PPSSPP/PSP/TEXTURES/.
+  Закинуть папки с серийниками в названии (ULJMXXXX, ULUSXXXX) по пути $USER/Documents/PPSSPP/PSP/TEXTURES/.
   
-  !Если не работают:
+  ! Если не работают !:
   - 1 В PPSSPP открыть SETTINGS > TOOLS > DEVELOPER TOOLS > TEXTURE REPLACEMENT
   - 2 Прожать галочку на REPLACE TEXTURES
   - 3 Открыть SHOW IN FOLDER и перенести папки в ту что откроется
