@@ -40,12 +40,18 @@ GH drink buff:
 
 Нажмите Круг (Circle), чтобы активировать, сидя за столом.
 
-
-АЛСО:
+АЛСО
 =
+# Athena ASS (Программа для поиска оптимальных микс-сетов по заданным критериям):
 
-Моды:
-=
+https://www.mediafire.com/file/6z6dgks3kjc4u5g/%5BPSP_MHF1%5DAthena%27s_%2A.S.S-viciousShadow%27s_MHF1_Edition_v96.zip
+
+# Ветки оружия:
+
+https://mhfu.vallode.com/smithy/
+
+# Моды:
+
 - Текстурки получше (с пс2 МХ Дос): https://github.com/Monkbreh/MHFU-Texture-Port
 
   // Установка:
@@ -64,16 +70,7 @@ GH drink buff:
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
 
-_ Athena ASS (Программа для поиска оптимальных микс-сетов по заданным критериям):
-
-https://www.mediafire.com/file/6z6dgks3kjc4u5g/%5BPSP_MHF1%5DAthena%27s_%2A.S.S-viciousShadow%27s_MHF1_Edition_v96.zip
-
-_ Ветки оружия:
-
-https://mhfu.vallode.com/smithy/
-
-Ковыряние в файлах:
-=
+# Ковыряние в файлах:
 
 https://github.com/topics/mhfu etc etc...
 
