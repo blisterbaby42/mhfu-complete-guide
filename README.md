@@ -101,7 +101,7 @@ www.ppsspp.org
   
 - https://www.nexusmods.com/monsterhunterfreedomunite/mods/26 - Точки сбора подсвечиваются
 
-# Ковыряние в файлах:
+## Ковыряние в файлах:
 
 https://github.com/topics/mhfu etc etc...
 
